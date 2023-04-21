@@ -11,4 +11,6 @@ Hello, I'm Kavya, a Mechatronics Engineer with a passion for automation and data
 # 💻 Projects:
 1. Waterway debris removal system
 2. Object detection using ESP32-cam
-3. Movie Recommendation System 
+3. Movie Recommendation System
+4. Vibration-based predictive maintenance system
+5. Audio classification system 
