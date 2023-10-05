@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Kavya, a Mechatronics Engineer with a passion for automation and data science. My expertise lies in designing and developing complex systems that integrate mechanical, electrical, and software components to optimize performance and productivity. I also have a keen interest in data science and machine learning, and I believe that the integration of these fields is essential for unlocking the full potential of automation.<br><br>
+Hello, I'm Kavya, a Mechatronics Engineer with a passion for automation and robotics. My expertise lies in designing and developing complex systems that integrate mechanical, electrical, and software components to optimize performance and productivity. I also have a keen interest in data science and machine learning, and I believe that the integration of these fields is essential for unlocking the full potential of automation.<br><br>
 
 
 ## 🌐 Socials:
